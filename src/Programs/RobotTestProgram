@@ -1,0 +1,8 @@
+(if
+	(energy-at-least 9001)
+	(shoot)
+	(while
+		(energy-at-least 3001)
+		(shoot)
+	)
+)
