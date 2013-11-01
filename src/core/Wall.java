@@ -1,5 +1,7 @@
 package core;
 
+import Items.Item;
+
 /**
  * ...
  * 
@@ -34,6 +36,16 @@ public class Wall extends Entity {
 		return true;
 	}
 	
+	@Override
+	public boolean isObstacleForRobot(Robot robot) {
+		return true;
+	}
+
+	@Override
+	public boolean isObstacleForItem(Item item) {
+		return true;
+	}
+	
 	/**
 	 * ...
 	 * 
@@ -58,6 +70,8 @@ public class Wall extends Entity {
 	 */
 	@Override
 	public void hit() {}
+
+
 	
 }
 

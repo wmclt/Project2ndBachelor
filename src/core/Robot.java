@@ -823,26 +823,23 @@ public class Robot extends Entity implements EnergyRelated{
      * 			The entity that need be checked whether it would form an obstacle to the robot.
      * @return	If the given entity is an instance of the class robot or wall, the result is true. Otherwise the 
      * 			result is false.
-     * 			|let
-     * 			|	boolean trueOrFalse = false
-     * 			|	if(Wall.class.isInstance(entity)) 
-     * 			|		then trueOrFalse == true
-     * 			|	if(Robot.class.isInstance(entity)) 
-     * 			|		then trueOrFalse == true
-     * 			|in
-     * 			|	result == trueOrFalse
+     * 			|result == entity.isObstacleForRobot(this)
      */
     public boolean isObstacleFor(Entity entity){
         assert(entity != null);
-        if(entity == this)
-            return false;
-        if(Wall.class.isInstance(entity)) 
-            return true;
-        if(Robot.class.isInstance(entity))
-            return true;
-        else
-            return false;
+        return entity.isObstacleForRobot(this);
     }
+    
+
+	@Override
+	public boolean isObstacleForRobot(Robot robot) {
+		return robot != this;
+	}
+
+	@Override
+	public boolean isObstacleForItem(Item item) {
+		return false;
+	}
 
     /**
      * The robot shoots its laser in the direction it is facing, consuming 1000 Ws of energy.
@@ -1364,6 +1361,7 @@ public class Robot extends Entity implements EnergyRelated{
     		i++;
     	}
     }
+
     
     
 }

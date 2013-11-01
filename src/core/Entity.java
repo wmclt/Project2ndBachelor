@@ -1,6 +1,7 @@
 package core;
 
 import Auxiliary.Position;
+import Items.Item;
 import be.kuleuven.cs.som.annotate.Basic;
 import be.kuleuven.cs.som.annotate.Raw;
 
@@ -166,6 +167,10 @@ public abstract class Entity extends Deletable{
 	 * 			|result == ((this.getClass() this).isObstacleFor(entity)
 	 */
 	public abstract boolean isObstacleFor(Entity entity);
+	
+	public abstract boolean isObstacleForRobot(Robot robot);
+	
+	public abstract boolean isObstacleForItem(Item item);
 	
 	/**
 	 * ...

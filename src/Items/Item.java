@@ -1,8 +1,8 @@
 package Items;
 
-import myPackage.Entity;
-import myPackage.Robot;
-import myPackage.Wall;
+import core.Entity;
+import core.Robot;
+import core.Wall;
 import be.kuleuven.cs.som.annotate.Basic;
 import be.kuleuven.cs.som.annotate.Model;
 
@@ -72,16 +72,22 @@ public abstract class Item extends Entity {
 	 * @pre		...
 	 * 			|entity != null
 	 * @return	...
-	 * 			|if(Wall.class.isInstance(entity) then result == true
-	 * 			|else then result == false
+	 * 			|result == entity.isObstacleForItem(this)
 	 */
 	@Override
 	public boolean isObstacleFor(Entity entity) {
 		assert(entity != null);
-		if(Wall.class.isInstance(entity))
-			return true;
-		else
-			return false;
+		return entity.isObstacleForItem(this);
+	}
+	
+	@Override
+	public boolean isObstacleForRobot(Robot robot) {
+		return false;
+	}
+
+	@Override
+	public boolean isObstacleForItem(Item item) {
+		return false;
 	}
 	
 	/**
