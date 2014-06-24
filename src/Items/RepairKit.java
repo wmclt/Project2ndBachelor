@@ -1,6 +1,6 @@
 package Items;
 
-import myPackage.Robot;
+import core.Robot;
 import Auxiliary.EnergyAmount;
 import be.kuleuven.cs.som.annotate.Model;
 

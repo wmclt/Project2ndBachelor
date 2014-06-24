@@ -1,10 +1,10 @@
 package Conditions;
 
+import core.Robot;
+import core.Wall;
 import Auxiliary.Position;
-import myPackage.Robot;
 import Auxiliary.Orientation;
 import Items.Item;
-import myPackage.Wall;
 
 /**
  * An enumeration of all the basic conditions that can be used in programs.

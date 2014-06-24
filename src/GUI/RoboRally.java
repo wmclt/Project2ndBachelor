@@ -488,8 +488,8 @@ public class RoboRally<Board, Robot, Wall, Battery, RepairKit, SurpriseBox> exte
 		// modify the code between <begin> and <end> (substitute the generic arguments with your classes and replace
 		// roborally.model.Facade with your facade implementation)
 		/* <begin> */
-		RoboRally<myPackage.Board, myPackage.Robot, myPackage.Wall, Items.Battery, Items.RepairKit, Items.SurpriseBox> roboRally 
-			= new RoboRally<myPackage.Board, myPackage.Robot,myPackage.Wall, Items.Battery, Items.RepairKit, Items.SurpriseBox>(new GUI.Facade());
+		RoboRally<core.Board, core.Robot, core.Wall, Items.Battery, Items.RepairKit, Items.SurpriseBox> roboRally 
+			= new RoboRally<core.Board, core.Robot,core.Wall, Items.Battery, Items.RepairKit, Items.SurpriseBox>(new GUI.Facade());
 		/* <end> */
 		roboRally.setVisible(true);
 		roboRally.run();

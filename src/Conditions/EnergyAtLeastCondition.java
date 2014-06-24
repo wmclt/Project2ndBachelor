@@ -1,9 +1,9 @@
 package Conditions;
 
+import core.Robot;
 import be.kuleuven.cs.som.annotate.*;
 import Auxiliary.EnergyAmount;
 import Auxiliary.EnergyUnit;
-import myPackage.Robot;
 
 /**
  * A class representing energy-at-least conditions, conditions

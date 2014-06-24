@@ -2,10 +2,11 @@ package Conditions;
 
 import java.util.ArrayList;
 
+import core.Robot;
+
 import be.kuleuven.cs.som.annotate.Basic;
 import be.kuleuven.cs.som.annotate.Immutable;
 import be.kuleuven.cs.som.annotate.Model;
-import myPackage.Robot;
 
 /**
  * A class representing conditions that consist of multiple (sub)conditions that can be evaluated together.

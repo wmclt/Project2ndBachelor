@@ -2,9 +2,10 @@ package Commands;
 
 import java.util.ArrayList;
 
+import core.Robot;
+
 import be.kuleuven.cs.som.annotate.*;
 
-import myPackage.Robot;
 
 /**
  * A class representing a sequence command, i.e. a list of commands to be executed consecutively.

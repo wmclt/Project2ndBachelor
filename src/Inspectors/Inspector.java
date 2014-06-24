@@ -1,5 +1,5 @@
 package Inspectors;
-import myPackage.*;
+import core.*;
 
 /**
  * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet

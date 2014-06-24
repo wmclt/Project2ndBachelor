@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="D:/Work/BiR-2b/Objectgericht Programmeren/ExternalLibraries/AnnotationsDoclets.jar"/>
-	<classpathentry kind="lib" path="D:/Work/BiR-2b/Objectgericht Programmeren/ExternalLibraries/RationalStart.JAR"/>
+	<classpathentry kind="lib" path="C:/Users/Brecht/Documents/2e Bach/2e Sem/OGP/AnnotationsDoclets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brecht/Documents/2e Bach/2e Sem/OGP/RationalStart.JAR"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

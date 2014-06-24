@@ -11,8 +11,9 @@ import java.io.Writer;
 import java.util.Set;
 import java.util.HashSet;
 
+import core.*;
 
-import myPackage.*;
+
 
 /**
  * @note 	Opgemerkte fouten :

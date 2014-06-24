@@ -2,9 +2,10 @@ package Commands;
 
 import java.util.NoSuchElementException;
 
+import core.Robot;
+
 import Items.Item;
 
-import myPackage.Robot;
 
 /**
  * An enumeration of all the possible basic commands.

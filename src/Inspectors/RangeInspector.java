@@ -1,7 +1,7 @@
 package Inspectors;
 
+import core.Entity;
 import Auxiliary.Position;
-import myPackage.Entity;
 
 /**
  * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet

@@ -474,7 +474,7 @@ public class Board extends Deletable {
 	 * 			|			then result == true 
 	 * 			|result == false
 	 */			
-	@SuppressWarnings("unused") @Model
+	@Model
 	private boolean containsEntity(Entity entity) {
 		for(Position position : getEntitiesOnBoard().keySet())
 			for(Entity onBoard : getEntitiesOnPosition(position))

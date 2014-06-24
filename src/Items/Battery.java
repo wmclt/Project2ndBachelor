@@ -1,7 +1,7 @@
 package Items;
 
+import core.Robot;
 import Auxiliary.EnergyAmount;
-import myPackage.Robot;
 
 /**
  * ...

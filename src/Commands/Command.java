@@ -1,6 +1,6 @@
 package Commands;
 
-import myPackage.Robot;
+import core.Robot;
 
 /**
  * An interface of commands, an ordered structure of instructions that can be executed by a robot.

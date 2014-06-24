@@ -2,8 +2,9 @@ package Items;
 
 import java.util.Random;
 
+import core.*;
+
 import Auxiliary.*;
-import myPackage.*;
 
 /**
  * ...

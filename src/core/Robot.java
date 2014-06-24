@@ -278,7 +278,7 @@ public class Robot extends Entity implements EnergyRelated{
      * @effect	This robot's energy is set to this robot's capacity.
      * 			| setEnergy(getCapacity())
      */
-    @SuppressWarnings("unused") @Model 
+    @Model 
     private void rechargeToCapacity() {
         setEnergy(getCapacity());
     }

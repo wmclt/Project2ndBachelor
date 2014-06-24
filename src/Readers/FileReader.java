@@ -16,7 +16,7 @@ public class FileReader{
 		String programString = "";
 		while(scanner.hasNext())
 			programString += scanner.next();
-		
+		scanner.close();
 		return programString;
 		
 	}

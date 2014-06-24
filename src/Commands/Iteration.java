@@ -1,10 +1,10 @@
 package Commands;
 
+import core.Robot;
 import Conditions.Condition;
 import be.kuleuven.cs.som.annotate.Basic;
 import be.kuleuven.cs.som.annotate.Immutable;
 import be.kuleuven.cs.som.annotate.Model;
-import myPackage.Robot;
 
 /**
  * A class representing while-command: these consist of a condition, and a command to execute as long as the conditions holds.

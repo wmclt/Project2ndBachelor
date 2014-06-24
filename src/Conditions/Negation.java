@@ -1,7 +1,7 @@
 package Conditions;
 
+import core.Robot;
 import be.kuleuven.cs.som.annotate.*;
-import myPackage.Robot;
 
 /**
  * A class of commands representing negations of commands. That is, a negation evaluates to true if its

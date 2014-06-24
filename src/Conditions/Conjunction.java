@@ -1,7 +1,8 @@
 package Conditions;
 
-import myPackage.Robot;
 import java.util.ArrayList;
+
+import core.Robot;
 
 /**
  * A class of composed conditions treating their subcommands as a conjunction of conditions.

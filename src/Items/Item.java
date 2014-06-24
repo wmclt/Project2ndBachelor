@@ -2,7 +2,6 @@ package Items;
 
 import core.Entity;
 import core.Robot;
-import core.Wall;
 import be.kuleuven.cs.som.annotate.Basic;
 import be.kuleuven.cs.som.annotate.Model;
 

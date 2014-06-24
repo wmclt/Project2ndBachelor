@@ -1,6 +1,6 @@
 package Conditions;
 
-import myPackage.Robot;
+import core.Robot;
 
 /**
  * An interface of conditions.

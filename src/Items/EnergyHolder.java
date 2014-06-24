@@ -1,6 +1,6 @@
 package Items;
 
-import myPackage.EnergyRelated;
+import core.EnergyRelated;
 import Auxiliary.EnergyAmount;
 import Auxiliary.EnergyUnit;
 import be.kuleuven.cs.som.annotate.Basic;

@@ -2,11 +2,12 @@ package Items;
 
 import static org.junit.Assert.*;
 
-import myPackage.Robot;
-import myPackage.Wall;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import core.Robot;
+import core.Wall;
 
 import Auxiliary.EnergyAmount;
 import Auxiliary.EnergyUnit;

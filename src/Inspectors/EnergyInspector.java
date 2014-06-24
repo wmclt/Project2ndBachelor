@@ -1,8 +1,8 @@
 package Inspectors;
 
+import core.EnergyRelated;
+import core.Entity;
 import Auxiliary.EnergyAmount;
-import myPackage.EnergyRelated;
-import myPackage.Entity;
 
 /**
  * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet

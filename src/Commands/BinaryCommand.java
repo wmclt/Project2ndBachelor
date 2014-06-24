@@ -1,10 +1,10 @@
 package Commands;
 
+import core.Robot;
 import Conditions.Condition;
 import be.kuleuven.cs.som.annotate.Basic;
 import be.kuleuven.cs.som.annotate.Immutable;
 import be.kuleuven.cs.som.annotate.Model;
-import myPackage.Robot;
 
 /**
  * A class representing a binary command: these consist of a condition, a command to execute if the condition evaluates to true,
