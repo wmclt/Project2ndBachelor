@@ -16,7 +16,7 @@ import be.kuleuven.cs.som.annotate.Model;
  * 			|	)
  * 
  * @note	The weight of the items is at all times expressed in grams, unless specified otherwise.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2Bir: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

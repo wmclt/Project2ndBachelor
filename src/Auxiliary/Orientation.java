@@ -9,7 +9,7 @@ import be.kuleuven.cs.som.annotate.Value;
  * For the moment, this class knows the orientations Up, Down, Left & Right.
  * 
  *
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  */

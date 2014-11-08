@@ -38,7 +38,7 @@ import be.kuleuven.cs.som.annotate.Raw;
  * 			|		for each entity in board.getEntitiesOnPosition(position) :
  * 			|			!entity.isTerminated()
  * 
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet 2Bir: wtk-cws (Gosselé)
+ * @author 	Brecht Gosselé & William Mauclet 2Bir: wtk-cws (Gosselé)
  *         	en cws-elt(Mauclet)
  * @version 3.0
  * 

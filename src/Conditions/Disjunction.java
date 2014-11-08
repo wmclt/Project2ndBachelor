@@ -8,7 +8,7 @@ import core.Robot;
 /**
  * A class of composed conditions treating their subcommands as a disjunction of conditions.
  * That is, a disjunction evaluates to true if at least one of its subconditions does so.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

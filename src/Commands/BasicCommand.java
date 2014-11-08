@@ -10,7 +10,7 @@ import Items.Item;
 /**
  * An enumeration of all the possible basic commands.
  * As for now, these are: moving, turning (both clock- and counterclockwise), shooting, and picking up and using an item.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

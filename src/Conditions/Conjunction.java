@@ -7,7 +7,7 @@ import core.Robot;
 /**
  * A class of composed conditions treating their subcommands as a conjunction of conditions.
  * That is, a conjunction evaluates to true if all of its subconditions do so.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

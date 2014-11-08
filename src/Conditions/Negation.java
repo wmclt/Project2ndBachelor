@@ -6,7 +6,7 @@ import be.kuleuven.cs.som.annotate.*;
 /**
  * A class of commands representing negations of commands. That is, a negation evaluates to true if its
  * negated command evaluates to false.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

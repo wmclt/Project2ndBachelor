@@ -12,7 +12,7 @@ import be.kuleuven.cs.som.annotate.Raw;
  * 			|(getPosition() == null && getBoard() == null) 
  * 			or it has a board and a valid position on that board.
  * 			| (getBoard() != null && getBoard().isLegalCoordinate(getPosition().getX(),getPosition().getY()))
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2Bir: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  */

@@ -3,7 +3,7 @@ package Auxiliary;
 import be.kuleuven.cs.som.annotate.*;
 
 /**
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  */

@@ -10,7 +10,7 @@ import Items.Item;
  * An enumeration of all the basic conditions that can be used in programs.
  * As for now, these are: (the trivial conditions) true and false, wall (to check whether there is a wall right of a robot),
  * at-item (to check whether there is an item on the same position as a robot), and can-hit-robot.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

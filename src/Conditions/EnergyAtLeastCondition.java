@@ -8,7 +8,7 @@ import Auxiliary.EnergyUnit;
 /**
  * A class representing energy-at-least conditions, conditions
  * that check whether a robot has at least a certain amount of energy.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

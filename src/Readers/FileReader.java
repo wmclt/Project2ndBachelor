@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * @author Brecht J.J. Gosselé & William E.R.J. Mauclet 2Bir: wtk-cws (Gosselé)
+ * @author Brecht Gosselé & William Mauclet 2Bir: wtk-cws (Gosselé)
  *         en cws-elt(Mauclet)
  * @version 3.0
  *

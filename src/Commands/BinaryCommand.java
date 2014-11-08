@@ -9,7 +9,7 @@ import be.kuleuven.cs.som.annotate.Model;
 /**
  * A class representing a binary command: these consist of a condition, a command to execute if the condition evaluates to true,
  * and a command to execute if the condition executes to false.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

@@ -33,7 +33,7 @@ import be.kuleuven.cs.som.annotate.*;;
  * 			|			then robot1 == robot2
  * @note	All aspects related to the energy are expressed in Ws!
  * 
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	5.2.3
  */

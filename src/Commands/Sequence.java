@@ -9,7 +9,7 @@ import be.kuleuven.cs.som.annotate.*;
 
 /**
  * A class representing a sequence command, i.e. a list of commands to be executed consecutively.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

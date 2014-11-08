@@ -10,7 +10,7 @@ import be.kuleuven.cs.som.annotate.Immutable;
  * 
  * @invar	The x- and y-coordinates are positive.
  * 			|x >= 0 && y >= 0
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2Bir: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  * 

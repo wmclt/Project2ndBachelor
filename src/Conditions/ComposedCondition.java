@@ -10,7 +10,7 @@ import be.kuleuven.cs.som.annotate.Model;
 
 /**
  * A class representing conditions that consist of multiple (sub)conditions that can be evaluated together.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

@@ -7,7 +7,7 @@ import be.kuleuven.cs.som.annotate.Model;
 /**
  * ...
  * 
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2Bir: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  *

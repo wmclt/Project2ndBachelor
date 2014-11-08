@@ -7,7 +7,7 @@ import Commands.*;
 import Conditions.*;
 
 /**
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet 2Bir: 
+ * @author 	Brecht Gosselé & William Mauclet 2Bir: 
  * 			wtk-cws (Gosselé)  resp. cws-elt(Mauclet)
  * @version 3.0
  *

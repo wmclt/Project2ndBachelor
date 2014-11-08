@@ -8,7 +8,7 @@ import be.kuleuven.cs.som.annotate.Model;
 
 /**
  * A class representing while-command: these consist of a condition, and a command to execute as long as the conditions holds.
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2BiR: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  */

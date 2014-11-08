@@ -11,7 +11,7 @@ import Auxiliary.EnergyAmount;
  * @invar	The energy of each battery must be a valid energy-value for a battery given its capacity.
  * 			|isLegalEnergy(getEnergy())
  * 
- * @author 	Brecht J.J. Gosselé & William E.R.J. Mauclet
+ * @author 	Brecht Gosselé & William Mauclet
  * 			2Bir: wtk-cws (Gosselé) en cws-elt(Mauclet)
  * @version	3.0
  */
