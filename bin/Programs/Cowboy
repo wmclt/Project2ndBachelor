@@ -1,8 +1,0 @@
-(while
-  (true)
-  (if
-    (can-hit-robot)
-    (shoot)
-    (turn clockwise)
-  )
-)
